@@ -1,0 +1,6 @@
+{
+  "name": "Cobranza WiFi",
+  "description": "App de gestión de clientes y cobranza automatizada de servicio de internet WiFi con sincronización de tasa BCV e integración a WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
